@@ -8,18 +8,16 @@ This project is part of The Odin Project's HTML foundation and it aims to create
 
 Technologies used in this project:
 
-  • HTML <br>
-  • Git
+  - HTML
+  - Git
 
 ## Skills Demonstrated
 
 While completing this project we have demonstrated the following skills:
 
-  • **Git Workflow:** The using of git commands like push, commit, add, etc.
-
-  • **Linking webpages:** Basic linking of different HTML pages together to form a webpage.
-
-  • **Structer formation:** We structred different forms of data with the help of different tags. For example: `<ol>`, `<ul>`, etc.
+  - **Git Workflow:** The using of git commands like push, commit, add, etc.
+  - **Linking webpages:** Basic linking of different HTML pages together to form a webpage.
+  - **Structer formation:** We structred different forms of data with the help of different tags. For example: `<ol>`, `<ul>`, etc.
 
 ## Getting Started
 
