@@ -4,7 +4,7 @@
 
 This project is part of The Odin Project's HTML foundation and it aims to create a simple group of web pages to practice the HTML.
 
-## Technology used
+## Technologies used
 
 Technologies used in this project:
 
@@ -24,11 +24,9 @@ While completing this project we have demonstrated the following skills:
 To get started with the project, follow the steps:
 
   1. Clone the repository: `git clone git@github.com:RajatTheDev/my-recipes.git`
-
   2. Click on the `index.html` file to get started.
-
   3. customise the file with your favourite recipes.
 
 ## Usage
 
-  Feel free to customise the project as per your preferences and create your favourite recipes!
+Feel free to customise the project as per your preferences and create your favourite recipes!
