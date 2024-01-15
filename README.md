@@ -6,14 +6,14 @@ This project is part of The Odin Project's HTML foundation and it aims to create
 
 ## Technology used
 
- Technologies used in this project:
+Technologies used in this project:
 
-  • HTML
+  • HTML <br>
   • Git
 
 ## Skills Demonstrated
 
- While completing this project we have demonstrated the following skills:
+While completing this project we have demonstrated the following skills:
 
   • **Git Workflow:** The using of git commands like push, commit, add, etc.
 
