@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+ul {
+    list-style-type: none;
+    padding: 24px;
+}
